@@ -1,0 +1,61 @@
+/*style sheet */
+  body {
+      background-color: #ffffff;
+      margin: 0;
+      height: 100%;
+      font-family: lora,"helvetica Neue",helvetica,Arial,sans-serif;
+
+  }
+  html {
+    height: 100%;
+  }
+
+
+  #sam {background-color: #405599;}
+  #sam a:hover {
+           background-color: #405588;
+    color: #f0f0f0;
+  }
+
+  #dad li a {color: white;}
+  #dad li a:hover {
+    background-color: #405588;
+    color: #f0f0f0;
+  }
+
+  #top {
+    position: relative;
+    background-color: #ffffff;
+  }
+  #drop {
+    color: #405590;
+    background-color: #405599; 
+  }  /*css style for dropdown background*/
+  .current {
+    background-color: #405088;
+  }
+/*styl for img on scholrship tab*/
+#schl {
+    margin-top: px;
+    
+    border-bottom: 1px solid #ddd;
+    
+    
+}
+
+/* Ul & li style for footer*/
+.foot ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+
+}
+
+.foot li  {
+    display: inline-block;
+    text-align: center;
+    
+   
+}
